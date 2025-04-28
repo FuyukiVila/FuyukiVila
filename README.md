@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
 ![Stats](https://github-readme-stats.vercel.app/api?username=FuyukiVila&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukiVila&layout=compact&theme=transparent&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukiVila&layout=compact&theme=transparent&hide_border=true&exclude_repo=FOR-ICPC)
